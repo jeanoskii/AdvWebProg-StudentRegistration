@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\StudentRegistration_Ermitano_Jeano\StudentRegistration_Ermitano_Jeano\bin\StudentRegistration_Ermitano_Jeano.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\StudentRegistration_Ermitano_Jeano\StudentRegistration_Ermitano_Jeano\bin\StudentRegistration_Ermitano_Jeano.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\StudentRegistration_Ermitano_Jeano\StudentRegistration_Ermitano_Jeano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\StudentRegistration_Ermitano_Jeano\StudentRegistration_Ermitano_Jeano\obj\Debug\StudentRegistration_Ermitano_Jeano.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\StudentRegistration_Ermitano_Jeano\StudentRegistration_Ermitano_Jeano\obj\Debug\StudentRegistration_Ermitano_Jeano.pdb

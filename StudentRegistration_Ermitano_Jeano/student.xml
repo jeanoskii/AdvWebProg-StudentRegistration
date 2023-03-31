@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Student>
+  <studentID>123</studentID>
+  <lastName>Ermitano</lastName>
+  <firstName>Jeano</firstName>
+  <middleName>Uson</middleName>
+  <age>14</age>
+  <address>Las Pinas</address>
+  <year>4</year>
+  <section>BSCS421</section>
+</Student>
